@@ -1,2 +1,1 @@
-# EEEtoIT-Journey_day2
-My transition from Electrical Engineering to a Product-Based IT Developer using Java, DSA, and Projects.
+This repository contains daily Java and DSA practice programs as part of my journey from an Electrical (EEE) background to cracking Product-Based IT roles. Includes clean code, logical problems, and real-world learning progress.
